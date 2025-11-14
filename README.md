@@ -3,3 +3,7 @@
 <img src="assests/lain.gif">
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=netzen-sys&show_icons=true&include_all_commits=true&theme=merko&hide_border=false" alt="NET/ZEN's github stats" /></a>
+<br>
+Wall of Certs
+<br>
+<img src="assests/it-customer-support-basics.png" />
